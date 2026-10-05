@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.example.luthfi_tib.databinding.ActivityMainBinding
+import com.example.luthfi_tib.pertemuan_5.LimaActivity
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.snackbar.Snackbar
 
@@ -68,6 +69,10 @@ class MainActivity : AppCompatActivity() {
         binding.btnKembali.setOnClickListener {
             val intent = Intent(this, DetailActivity::class.java)
             startActivity(intent)
+        }
+
+        binding.btnToLima.setOnClickListener {
+            startActivity(Intent(this, LimaActivity::class.java))
         }
 
     }
