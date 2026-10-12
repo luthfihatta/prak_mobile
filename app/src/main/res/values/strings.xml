@@ -2,4 +2,6 @@
     <string name="app_name">luthfi_tib</string>
     <string name="deskripsi">Sign In</string>
     <string name="dummy">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias atque cumque dicta eveniet facilis libero magnam minima neque, nisi numquam officiis perferendis porro quae, saepe sapiente sequi similique voluptatem?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
