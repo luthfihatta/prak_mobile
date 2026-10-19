@@ -32,19 +32,27 @@
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".pertemuan_5.LimaActivity"
+            android:name=".Home.pertemuan_5.LimaActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".pertemuan_5.WebViewActivity"
+            android:name=".Home.pertemuan_5.WebViewActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
-            android:name=".pertemuan6.SixthActivity"
+            android:name=".Home.pertemuan6.SixthActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
         <activity
             android:name=".MainActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".BaseActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".Message.MessageActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
     </application>

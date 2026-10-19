@@ -1,4 +1,4 @@
-package com.example.luthfi_tib.pertemuan6
+package com.example.luthfi_tib.Home.pertemuan6
 
 import android.os.Bundle
 import android.view.MenuItem
